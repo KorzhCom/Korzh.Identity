@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Korzh.Identity</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.0-beta1</PackageVersion>
     <Authors>Korzh.com</Authors>
     <Description>Some useful extensions for ASP.NET Core Identity libraryr</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
