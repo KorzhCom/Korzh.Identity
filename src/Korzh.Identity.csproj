@@ -9,7 +9,7 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>First public release</PackageReleaseNotes>
     <Copyright>Copyright 2017 (c) Sergiy Korzh. All rights reserved.</Copyright>
-    <PackageTags>adhoc report query filtering</PackageTags>
+    <PackageTags>identity claims password hash</PackageTags>
     <Version>1.0.0.0</Version>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
