@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Korzh.Identity</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Korzh.com</Authors>
+    <Description>Some useful extensions for ASP.NET Core Identity libraryr</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First public release</PackageReleaseNotes>
+    <Copyright>Copyright 2017 (c) Sergiy Korzh. All rights reserved.</Copyright>
+    <PackageTags>adhoc report query filtering</PackageTags>
+    <Version>1.0.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Configurations>Debug;Release</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.0.0" />
+    <PackageReference Include="System.Security.Cryptography.Cng" Version="4.4.0" />
+  </ItemGroup>
+
+</Project>
