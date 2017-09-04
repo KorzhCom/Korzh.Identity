@@ -5,7 +5,7 @@
     <PackageId>Korzh.Identity</PackageId>
     <PackageVersion>1.0.0-beta1</PackageVersion>
     <Authors>Korzh.com</Authors>
-    <Description>Some useful extensions for ASP.NET Core Identity libraryr</Description>
+    <Description>Some useful extensions for ASP.NET Core Identity library</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>First public release</PackageReleaseNotes>
     <Copyright>Copyright 2017 (c) Sergiy Korzh. All rights reserved.</Copyright>
